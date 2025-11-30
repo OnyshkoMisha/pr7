@@ -35,3 +35,4 @@ def insertion_sort(array):
     return array
 if __name__ == "__main__":
     print (bubble_sort ([5, 3, 1, 4, 2]))
+# this is fot test
